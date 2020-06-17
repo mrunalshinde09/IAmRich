@@ -1,6 +1,6 @@
 # iamrich
 
-A new Flutter application.
+Just A Start Into A Flutter World.... Will Keep on Creating More.
 
 ## Getting Started
 
